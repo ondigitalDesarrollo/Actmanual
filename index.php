@@ -1,7 +1,7 @@
 <?php
-    include_once 'config.php';
-    $query = $pdo->prepare
-?>
+    // include_once 'config.php';
+    // $query = $pdo->prepare
+?> 
 <!DOCTYPE html>
 <html lang="es">
 <head>
